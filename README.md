@@ -1,11 +1,11 @@
 ## 🐙 Mini Token Monster
-A Discord token grabber in the form of a Chrome bookmark. It is disguised as a trojan that adds an extra layer of "security" to your Discord account.
+A POC Discord token grabber in the form of a Chrome bookmark.
 
 #### :trophy: Features
 - Disguised as a chrome bookmark.
 - Sends user token through Discord Webhook.
 - Webhook formatted in an embed.
-- Small file size.
+- Small Size.
 - Can be obfuscated easily.
 
 #### :coffee: Installation & Usage
